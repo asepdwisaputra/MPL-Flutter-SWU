@@ -4,9 +4,9 @@ Selamat datang di repository dokumentasi pembelajaran mata kuliah Mobile Program
 
 ## Identitas
 
-**Nama**: Asep Dwi Saputra
-\n**NIM**: STI202102126
-\n**Kode Kelas**: #111
+- **Nama**: Asep Dwi Saputra
+- **NIM**: STI202102126
+- **Kode Kelas**: #111
 
 ## Deskripsi
 
