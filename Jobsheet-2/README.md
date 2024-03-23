@@ -30,7 +30,7 @@ Jika Anda memiliki pertanyaan atau masukan terkait dengan repository ini, jangan
 
 - [Tabel Pembelajaran - Management Tools](https://docs.google.com/spreadsheets/d/1gvTVsNCpL8G5ivKuLG8Zh-T_2chym7gYXlldrzzoXmo/edit?usp=sharing)
 - [SKIP THIS - Google Calender](https://calendar.google.com/calendar/u/0/r/month/2024)
-- [Sumber Materi dan Pengumpulan Tugas](https://s.id/kelasflutterswuttps)
+- [Sumber Materi dan Pengumpulan Tugas](https://s.id/kelasflutterswu)
 
 ## Ekstra
 
